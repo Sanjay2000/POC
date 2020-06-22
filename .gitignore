@@ -1,0 +1,8 @@
+node_modules
+.tmp
+server/.env
+
+
+.npmignore
+
+package-lock.json
